@@ -4,20 +4,96 @@
     "type": "split",
     "children": [
       {
-        "id": "82c31aa092e081e6",
+        "id": "98c236f4c5b6cab8",
         "type": "tabs",
         "children": [
           {
-            "id": "723f4ecc1d51c74b",
+            "id": "7a563b0fcd5e67b4",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game/Characters/Misery.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Misery"
+            },
+            "group": "c199e40670b78858"
+          }
+        ]
+      },
+      {
+        "id": "07320c284f6ec246",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e6aff156aeb737c",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
+              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "15dd8b72f4a67c7a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Game/Characters/Misery.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph of Misery"
+            },
+            "group": "c199e40670b78858"
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,6 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Game/Characters/Misery.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -99,7 +176,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Misery"
             }
           },
           {
@@ -145,8 +222,7 @@
               "title": "Outline"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -160,22 +236,23 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "723f4ecc1d51c74b",
+  "active": "15dd8b72f4a67c7a",
   "lastOpenFiles": [
+    "Game/Characters/Misery.md",
+    "Game/Characters/Soft.md",
+    "Game/World/Places/Baldur's Gate.md",
     "Game/Characters/Poisson Steve.md",
     "Game/Characters/Wizard.md",
     "Game/Characters/Rogue-Bard.md",
-    "Game/Characters/Misery.md",
     "IRL/Obsidian Templates/Session.md",
     "IRL/Sessions/2025-08-26.md",
     "IRL/Obsidian Templates/Organization.md",
     "IRL/Obsidian Templates/Character.md",
     "IRL/Players/Abyss.md",
-    "Game/Characters/Soft.md",
     "IRL/Players",
     "Untitled.base"
   ]
