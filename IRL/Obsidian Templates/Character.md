@@ -9,4 +9,3 @@ tags:
 | Species      |     |
 | Met at       |     |
 | Relationship |     |
-|              |     |
