@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "e3f251833d863646",
+    "type": "split",
+    "children": [
+      {
+        "id": "82c31aa092e081e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "723f4ecc1d51c74b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f38bedec51c5736",
+    "type": "split",
+    "children": [
+      {
+        "id": "79043e979bc8119e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dadf5ce342443ef4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b98df69b7f318844",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "089a88ce5ccb22f7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f6a46c94ddd4fb0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2808df08bc4c9d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4bc9b2b9ad4654c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "824755d607b783e8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Game/Characters/Misery.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Misery"
+            }
+          },
+          {
+            "id": "c03db778409936c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d5f5e29703db369f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "github-sync:Sync with Remote": false
+    }
+  },
+  "active": "723f4ecc1d51c74b",
+  "lastOpenFiles": [
+    "Game/Characters/Poisson Steve.md",
+    "Game/Characters/Wizard.md",
+    "Game/Characters/Rogue-Bard.md",
+    "Game/Characters/Misery.md",
+    "IRL/Obsidian Templates/Session.md",
+    "IRL/Sessions/2025-08-26.md",
+    "IRL/Obsidian Templates/Organization.md",
+    "IRL/Obsidian Templates/Character.md",
+    "IRL/Players/Abyss.md",
+    "Game/Characters/Soft.md",
+    "IRL/Players",
+    "Untitled.base"
+  ]
+}
