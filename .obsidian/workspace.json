@@ -33,8 +33,33 @@
               "title": "Misery"
             },
             "group": "c199e40670b78858"
+          },
+          {
+            "id": "405000a018e7fa6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game/Party Inventory.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Party Inventory"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "07320c284f6ec246",
@@ -166,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game/Characters/Misery.md",
+                "file": "Game/Party Inventory.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -176,7 +201,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Misery"
+              "title": "Backlinks for Party Inventory"
             }
           },
           {
@@ -240,9 +265,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "15dd8b72f4a67c7a",
+  "active": "405000a018e7fa6a",
   "lastOpenFiles": [
     "Game/Characters/Misery.md",
+    "Game/Party Inventory.md",
+    "Game/Party Inventory.ods",
+    "Game/lu67883bxqj.tmp",
+    "IRL/Players/Aque.md",
     "Game/Characters/Soft.md",
     "Game/World/Places/Baldur's Gate.md",
     "Game/Characters/Poisson Steve.md",
