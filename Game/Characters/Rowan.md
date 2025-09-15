@@ -1,9 +1,10 @@
 ---
 aliases:
+  - Rowan Amberseeker
 tags:
   - Character/PC
 ---
-Played by [[Lise]]
+Played by [[Aline]]
 
 | Origin  |     |
 | ------- | --- |

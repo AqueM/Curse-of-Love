@@ -57,9 +57,33 @@
               "icon": "lucide-file",
               "title": "Party Inventory"
             }
+          },
+          {
+            "id": "32be56053ead62bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IRL/Obsidian Templates/Session.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Session"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "07320c284f6ec246",
@@ -191,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Game/Party Inventory.md",
+                "file": "IRL/Obsidian Templates/Session.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -201,7 +225,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Party Inventory"
+              "title": "Backlinks for Session"
             }
           },
           {
@@ -265,23 +289,25 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "405000a018e7fa6a",
+  "active": "32be56053ead62bd",
   "lastOpenFiles": [
+    "IRL/Players/Aline.md",
+    "IRL/Players/Abyss.md",
+    "IRL/Obsidian Templates/Character.md",
+    "Game/Characters/Servius.md",
+    "Game/Characters/Soft.md",
+    "Game/Characters/Rowan.md",
+    "Game/Characters/Rogue-Bard.md",
+    "Game/Characters/Orpheus.md",
     "Game/Characters/Misery.md",
     "Game/Party Inventory.md",
     "Game/Party Inventory.ods",
     "Game/lu67883bxqj.tmp",
     "IRL/Players/Aque.md",
-    "Game/Characters/Soft.md",
     "Game/World/Places/Baldur's Gate.md",
-    "Game/Characters/Poisson Steve.md",
-    "Game/Characters/Wizard.md",
-    "Game/Characters/Rogue-Bard.md",
     "IRL/Obsidian Templates/Session.md",
     "IRL/Sessions/2025-08-26.md",
     "IRL/Obsidian Templates/Organization.md",
-    "IRL/Obsidian Templates/Character.md",
-    "IRL/Players/Abyss.md",
     "IRL/Players",
     "Untitled.base"
   ]

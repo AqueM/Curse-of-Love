@@ -6,6 +6,8 @@ tags:
   - Character/PC
 ---
 
-| Origin        | [[Baldur's Gate]] |
-| ------------- | ----------------- |
-| Relationships |                   |
+| Origin  | [[Baldur's Gate]] |
+| ------- | ----------------- |
+| Species | tiefling          |
+| Age     | 17                |
+| Family  |                   |

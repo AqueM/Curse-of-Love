@@ -1,9 +1,10 @@
 ---
 aliases:
+  - Orpheus Silverlight
 tags:
   - Character/PC
 ---
-Played by [[Lise]]
+Played by [[Maya]]
 
 | Origin  |     |
 | ------- | --- |
