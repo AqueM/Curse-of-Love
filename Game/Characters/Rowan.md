@@ -3,11 +3,12 @@ aliases:
   - Rowan Amberseeker
 tags:
   - Character/PC
+  - Amberseeker
 ---
 Played by [[Aline]]
 
-| Origin  |     |
-| ------- | --- |
-| Species | Elf |
-| Age     |     |
-| Family  |     |
+| Origin  | [[Spring Vale]]       |
+| ------- | --------------------- |
+| Species | Elf                   |
+| Age     |                       |
+| Family  | [[Gwynnestri\|Gwynn]] |

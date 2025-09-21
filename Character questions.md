@@ -1,0 +1,13 @@
+- what are the Character's bedtime habits?
+- what is their general disposition? 
+- what is their poise, composure, their way of being, their ***aura***?
+- are there any accessories, trinkets, jewelry that the Character wears usually? Colors that stand out in their outfits?
+- what are the Character's sleeping/trancing habits, usual position?
+- what are their habits around food? preferred foods, habits around snacking, quirks around eating?
+- how does the Character laugh, if they laugh at all? What makes them laugh?
+- how do they treat their equipment? Is it well-taken off?
+- does the Character have any unusual equipment or tools?
+- do they have any stims, quirks, any repeating eccentricities?
+- do they have any immediately visible scars or marks?
+- do they possess any immediately visible devotional items? Are they obvious with their faith or have any faith-related habits?
+- is the Character right- or left-handed?

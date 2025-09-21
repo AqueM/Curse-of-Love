@@ -4,8 +4,7 @@ tags:
   - Character/NPC
 ---
 
-| Full name    |     |
-| ------------ | --- |
-| Species      |     |
-| Met at       |     |
-| Relationship |     |
+| Species                 |     |
+| ----------------------- | --- |
+| Met at                  |     |
+| Relationship with party |     |

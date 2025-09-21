@@ -1,19 +1,20 @@
 ---
 aliases:
 tags:
-  - Group/Organization
+  - Group
 ---
 
 | Size          |     |
 | ------------- | --- |
 | Allied?       |     |
 | Relationships |     |
+| Type          |     |
 # Goals
 
 
 # Known members
 
-- 
-# Hallmarks, heralrdy, uniforms
+
+# Hallmarks
 
 
