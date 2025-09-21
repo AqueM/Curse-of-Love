@@ -17,3 +17,4 @@ Played by [[Lise]]
 | Age        |                 |
 | Family     | [[Rowan]]       |
 | Birth name | Willow          |
+Very averse to her betrothal and thus avoids going back home. Dislikes boredom, seeks out entertainment. Very new to magic. Rather easily spooked. 
