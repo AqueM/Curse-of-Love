@@ -1,3 +1,7 @@
+---
+tags:
+  - Place/Village
+---
 Near [[Trollbark Forest]], south of [[Daggerford]]
 Used to creatures coming out of the forest every once in a while. Recently struggling with them more as they come out more often (every few weeks instead of every few months).
 

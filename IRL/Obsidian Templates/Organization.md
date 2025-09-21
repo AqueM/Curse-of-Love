@@ -4,10 +4,11 @@ tags:
   - Group/Organization
 ---
 
-| Size          |     |
-| ------------- | --- |
-| Allied?       |     |
-| Relationships |     |
+| Size                             |     |
+| -------------------------------- | --- |
+| Allied?                          |     |
+| Relationships with other groups? |     |
+| Type                             |     |
 # Goals
 
 
