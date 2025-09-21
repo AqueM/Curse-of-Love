@@ -6,8 +6,8 @@ tags:
 ---
 Played by [[Maya]]
 
-| Origin  |     |
-| ------- | --- |
-| Species | Elf |
-| Age     |     |
-| Family  |     |
+| Origin  |         |
+| ------- | ------- |
+| Species | [[elf]] |
+| Age     |         |
+| Family  |         |

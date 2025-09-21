@@ -13,7 +13,7 @@ Played by [[Lise]]
 
 | Origin     | [[Spring Vale]] |
 | ---------- | --------------- |
-| Species    | Elf             |
+| Species    | [[elf]]         |
 | Age        |                 |
 | Family     | [[Rowan]]       |
 | Birth name | Willow          |

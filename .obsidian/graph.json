@@ -1,6 +1,6 @@
 {
   "collapse-filter": true,
-  "search": "-path:\"IRL/Obsidian Templates\" -path:IRL/Sessions  -tag:#Player",
+  "search": "-path:\"IRL/Obsidian Templates\" -path:IRL/Sessions  -tag:#Player -tag:#meta  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,

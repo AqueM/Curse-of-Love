@@ -9,6 +9,6 @@ Played by [[Aline]]
 
 | Origin  | [[Spring Vale]]       |
 | ------- | --------------------- |
-| Species | Elf                   |
+| Species | [[elf]]               |
 | Age     |                       |
 | Family  | [[Gwynnestri\|Gwynn]] |

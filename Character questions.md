@@ -1,3 +1,7 @@
+---
+tags:
+  - meta
+---
 - what are the Character's bedtime habits?
 - what is their general disposition? 
 - what is their poise, composure, their way of being, their ***aura***?

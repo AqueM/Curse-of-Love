@@ -8,6 +8,6 @@ tags:
 
 | Origin  | [[Baldur's Gate]] |
 | ------- | ----------------- |
-| Species | tiefling          |
+| Species | [[tiefling]]      |
 | Age     | 17                |
 | Family  |                   |

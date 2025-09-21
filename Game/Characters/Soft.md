@@ -8,6 +8,6 @@ Played by [[Abyss]]
 
 | Origin  |                  |
 | ------- | ---------------- |
-| Species | Orc              |
+| Species | [[orc]]          |
 | Age     | 15 (young adult) |
 | Family  |                  |

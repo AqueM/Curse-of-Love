@@ -4,7 +4,7 @@ tags:
   - Character/NPC
 ---
 
-| Species                 | Pixie                         |
+| Species                 | [[pixie]]                     |
 | ----------------------- | ----------------------------- |
 | Met at                  | starting village on Trade Way |
 | Relationship with party | friendly                      |
