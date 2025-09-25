@@ -10,6 +10,6 @@ Used to creatures coming out of the forest every once in a while. Recently strug
 - Grain silo (protected during attacks because "it is their food stock")
 
 # People
-- Inkeeper (F)
+- Innkeeper (she/her)
 - Chief of the village
 - scout sent to investigate undeath in the forest (dead, [[elf]])
