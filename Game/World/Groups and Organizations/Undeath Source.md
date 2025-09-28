@@ -15,7 +15,7 @@ tags:
 # Known members
 
 - driver of a convoy heading into the ruins of [[Trollbark undeath problem]]
-- [[bardsassin]] boy (former)
+- [[Servius|bardsassin]] boy (former)
 # Hallmarks, heraldry, uniforms
 - iron masks?
 
