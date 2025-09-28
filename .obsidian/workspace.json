@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "07320c284f6ec246",
+        "id": "03f4cbe789a0153b",
         "type": "tabs",
         "children": [
           {
-            "id": "169d9565bc677b7d",
+            "id": "8d0386e2ed0fdede",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IRL/Sessions/2025-09-21.md",
+                "file": "Game/World/Events/Trollbark undeath problem.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,13 +28,38 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-09-21"
+              "title": "Trollbark undeath problem"
+            }
+          },
+          {
+            "id": "56ffe667ca9b825a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IRL/Sessions/2025-09-28.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-28"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "03f4cbe789a0153b",
+        "id": "b4399647825638d3",
         "type": "tabs",
         "children": [
           {
@@ -195,34 +220,34 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "dadf5ce342443ef4",
+  "active": "56ffe667ca9b825a",
   "lastOpenFiles": [
-    "Game/World/Places/Barkhill Village.md",
-    "IRL/Sessions/2025-09-21.md",
-    "Game/World/Places/Baldur's Gate.md",
     "Game/World/Events/Trollbark undeath problem.md",
+    "Game/World/Groups and Organizations/Undeath Source.md",
+    "IRL/Obsidian Templates/Group.md",
+    "IRL/Obsidian Templates/Organization.md",
+    "Game/World/Groups and Organizations/Trollbark wood elves.md",
+    "IRL/Sessions/2025-09-28.md",
+    "Game/Characters/Servius.md",
+    "bardsassin.md",
+    "Game/World/Places/Barkhill Village.md",
+    "Game/Characters/Orpheus.md",
+    "IRL/Sessions/2025-09-21.md",
+    "Necromancy.md",
+    "Character questions.md",
+    "Game/World/Places/Baldur's Gate.md",
     "Game/World/Places/Daggerford.md",
     "Game/World/Places/Trollbark Forest.md",
     "Game/World/Places/Waterdeep.md",
-    "Game/World/Groups and Organizations/Trollbark wood elves.md",
-    "IRL/Obsidian Templates/Group.md",
-    "IRL/Obsidian Templates/Organization.md",
     "Game/Characters/Rowan.md",
     "IRL/Obsidian Templates/Place.md",
     "Game/Characters/Peep.md",
-    "Game/Characters/Orpheus.md",
     "Game/Characters/Misery.md",
     "IRL/Obsidian Templates/Character.md",
-    "Game/Characters/Servius.md",
     "Game/Characters/Soft.md",
     "Game/Characters/Squeex.md",
     "Game/Characters/Gwynnestri.md",
     "Game/Party Inventory.md",
-    "Character questions.md",
-    "Pixie.md",
-    "Game/World/Places/Spring Vale.md",
-    "Gwynn.md",
-    "IRL/Obsidian Templates/Session.md",
     "Game/Party Inventory.ods",
     "Game/lu67883bxqj.tmp",
     "IRL/Players",

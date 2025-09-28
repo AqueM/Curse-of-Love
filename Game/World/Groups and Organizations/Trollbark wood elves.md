@@ -12,3 +12,7 @@ tags:
 
 
 A group [[elf|elves]] who live in [[Trollbark Forest]]
+
+# Members
+- Lucan (he/him, charmed by Barbie, given an IOU for hospitality by Rowan; seems to be incredibly well-liked and respected)
+- Elder (she/her)

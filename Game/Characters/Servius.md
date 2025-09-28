@@ -1,12 +1,13 @@
 ---
 aliases:
+  - bardsassin
 tags:
   - Character/NPC
 ---
 
-| Full name    | ?        |
-| ------------ | -------- |
-| Species      | half-elf |
-| Met at       |          |
-| Relationship |          |
-|              |          |
+| Full name    | ?                    |
+| ------------ | -------------------- |
+| Species      | half-elf             |
+| Met at       | [[Trollbark Forest]] |
+| Relationship |                      |
+|              |                      |

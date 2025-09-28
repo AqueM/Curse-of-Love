@@ -12,4 +12,4 @@ Played by [[Maya]]
 | Age     | old     |
 | Family  |         |
 Extreme asshole. Intimidating and rude. Acts like he's hot shit but he's not that strong. Hunter of some kind? Seeks out peace and quiet.
-Triggered by being called "husband". 
+Triggered by being called "husband". Paladin of [[Shar]].
