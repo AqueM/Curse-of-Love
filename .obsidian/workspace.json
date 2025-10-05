@@ -4,61 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "03f4cbe789a0153b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8d0386e2ed0fdede",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game/World/Events/Trollbark undeath problem.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Trollbark undeath problem"
-            }
-          },
-          {
-            "id": "56ffe667ca9b825a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Game/World/Groups and Organizations/Undeath Source.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Undeath Source"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
         "id": "b4399647825638d3",
         "type": "tabs",
         "children": [
@@ -220,34 +165,35 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "dadf5ce342443ef4",
+  "active": "5e6aff156aeb737c",
   "lastOpenFiles": [
-    "Game/World/Other Lore",
+    "Game/World/Places/Spring Vale.md",
+    "Game/World/Events/Spring Vale bridge sabotage.md",
+    "Game/World/Groups and Organizations/Source of the Rot.md",
     "Game/World/Other Lore/Necromancy.md",
-    "bardsassin.md",
-    "IRL/Sessions/2025-09-28.md",
     "Game/World/Events/Trollbark undeath problem.md",
-    "Game/World/Groups and Organizations/Undeath Source.md",
-    "IRL/Obsidian Templates/Group.md",
-    "IRL/Obsidian Templates/Organization.md",
-    "Game/World/Groups and Organizations/Trollbark wood elves.md",
-    "Game/Characters/Servius.md",
+    "Game/World/Events/Spring Vale slave trade.md",
     "Game/World/Places/Barkhill Village.md",
-    "Game/Characters/Orpheus.md",
-    "IRL/Sessions/2025-09-21.md",
-    "Character questions.md",
-    "Game/World/Places/Baldur's Gate.md",
-    "Game/World/Places/Daggerford.md",
-    "Game/World/Places/Trollbark Forest.md",
-    "Game/World/Places/Waterdeep.md",
-    "Game/Characters/Rowan.md",
-    "IRL/Obsidian Templates/Place.md",
-    "Game/Characters/Peep.md",
+    "Game/Characters/The Accountant.md",
+    "Game/Characters/Delight.md",
+    "Game/Characters/Gwynnestri.md",
+    "Game/Characters/Julius.md",
     "Game/Characters/Misery.md",
-    "IRL/Obsidian Templates/Character.md",
+    "Game/Characters/Rowan.md",
+    "Game/Characters/Peep.md",
+    "Game/Characters/Servius.md",
+    "Game/Characters/Servius' contact.md",
     "Game/Characters/Soft.md",
     "Game/Characters/Squeex.md",
-    "Game/Characters/Gwynnestri.md",
+    "Game/Characters/Stone.md",
+    "IRL/Sessions/2025-10-05.md",
+    "Game/World/Other Lore/tiefling.md",
+    "Game/World/Places/Winding Way.md",
+    "IRL/Sessions/2025-09-21.md",
+    "Game/Characters/Orpheus.md",
+    "Game/World/Places/Trollbark Forest.md",
+    "Game/World/Places/Daggerford.md",
+    "Game/World/Other Lore",
     "Game/Party Inventory.ods",
     "Game/lu67883bxqj.tmp",
     "IRL/Players",

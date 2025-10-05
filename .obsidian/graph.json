@@ -11,7 +11,7 @@
       "query": "tag:#Character/NPC  ",
       "color": {
         "a": 1,
-        "rgb": 11424480
+        "rgb": 15252991
       }
     },
     {
@@ -26,6 +26,20 @@
       "color": {
         "a": 1,
         "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#Group/Organization  ",
+      "color": {
+        "a": 1,
+        "rgb": 5401056
+      }
+    },
+    {
+      "query": "tag:#Event/Problem  ",
+      "color": {
+        "a": 1,
+        "rgb": 11337763
       }
     }
   ],

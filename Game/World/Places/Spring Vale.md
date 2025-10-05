@@ -1,4 +1,5 @@
 ---
 tags:
   - Place/Town
+  - Place
 ---

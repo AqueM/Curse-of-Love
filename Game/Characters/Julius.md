@@ -1,0 +1,12 @@
+---
+aliases:
+tags:
+  - Character/NPC
+---
+
+| Species                 | elf         |
+| ----------------------- | ----------- |
+| Met at                  |             |
+| Relationship with party |             |
+| Age                     | middle-aged |
+Lord Julius of Spring Vale, patron of an orphanage in [[Spring Vale]], father of [[Servius]]. Not a noble, but called "lord" because he's a war hero. Very well-liked, respected, charming. Gets plenty of donations for his orphanage.

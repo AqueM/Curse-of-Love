@@ -13,3 +13,4 @@ Used to creatures coming out of the forest every once in a while. Recently strug
 - Innkeeper (she/her)
 - Chief of the village (she/her)
 - scout sent to investigate undeath in the forest (dead, [[elf]])
+- scout's husband
