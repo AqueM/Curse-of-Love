@@ -1,7 +1,8 @@
 ---
 aliases:
 tags:
-  - Character/NPC
+  - Character/Pet
+  - Character/NPC/Minor
 ---
 
 | Species                 | [[pixie]]                                           |

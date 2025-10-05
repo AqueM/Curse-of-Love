@@ -2,6 +2,7 @@
 aliases:
 tags:
   - Character/NPC
+  - Character/NPC/Minor
 ---
 
 | Species                 | troll           |
