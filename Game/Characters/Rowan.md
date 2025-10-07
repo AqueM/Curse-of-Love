@@ -12,6 +12,7 @@ Played by [[Aline]]
 | Species | [[elf]]               |
 | Age     | young adult           |
 | Family  | [[Gwynnestri\|Gwynn]] |
+
 Protective/controlling of her sister, trying to bring her back to her arranged marriage. Reasonable. Learned and methodical about the arcane. 
 Introduces herself as Lady Rowan Amberseeker.
 # Looks
