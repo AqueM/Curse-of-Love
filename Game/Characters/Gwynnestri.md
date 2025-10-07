@@ -19,7 +19,7 @@ Played by [[Lise]]
 | Birth name | Willow          |
 
 Very averse to her betrothal and thus avoids going back home. Dislikes boredom, seeks out entertainment. Very new to magic. Rather easily spooked. 
-A self-proclaimed comedian, jester. Can't take a joke to save her life, blames it on lack of inspiration.
+A self-proclaimed comedian, jester. Can't make a joke to save her life, blames it on lack of inspiration.
 
 Doesn't introduce herself with her surname.
 # Looks
