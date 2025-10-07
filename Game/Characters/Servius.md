@@ -12,6 +12,7 @@ tags:
 | Relationship | friendly but suspicious |
 | Age          | 17ish                   |
 | Family       | [[Julius]]              |
+
 Polite. Good-hearted. Embarrassed by sexual topics. 
 Has and plays a flute.
 Known to people of Spring Vale as [[Julius]]' rowdy son who always causes trouble for his father.
