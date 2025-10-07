@@ -32,7 +32,7 @@ Young half-elf. Not fully grown young man. Tan skin, piercing yellow eyes. Huge 
 5. what are their habits around food? preferred foods, habits around snacking, quirks around eating?
 
 6. how does the Character laugh, if they laugh at all? What makes them laugh?
-
+Servius is too tense to laugh genuinely. He only chuckles awkwardly sometimes, like at Gwyn's terrible jokes. 
 7. how do they treat their equipment? Is it well-taken off?
 
 8. does the Character have any unusual equipment or tools
@@ -44,4 +44,3 @@ Young half-elf. Not fully grown young man. Tan skin, piercing yellow eyes. Huge 
 11. do they possess any immediately visible devotional items? Are they obvious with their faith or have any faith-related habits?
 
 12. is the Character right- or left-handed?
-Servius is too tense to laugh genuinely. He only chuckles awkwardly sometimes, like at Gwyn's terrible jokes. 
