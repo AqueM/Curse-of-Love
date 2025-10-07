@@ -11,6 +11,7 @@ Played by [[Abyss]]
 | Species | [[orc]]          |
 | Age     | 15 (young adult) |
 | Family  |                  |
+
 Quiet. Extremely protective and helpful. Healer. 
 
 # Looks
