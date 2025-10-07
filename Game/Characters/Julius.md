@@ -2,9 +2,10 @@
 aliases:
 tags:
   - Character/NPC
+  - Wealth
 ---
 
-| Species                 | elf         |
+| Species                 | [[elf]]     |
 | ----------------------- | ----------- |
 | Met at                  |             |
 | Relationship with party |             |

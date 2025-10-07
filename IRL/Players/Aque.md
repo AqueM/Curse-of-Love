@@ -1,5 +1,0 @@
----
-tags:
-  - Player
----
-Plays [[Misery]]

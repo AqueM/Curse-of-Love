@@ -6,11 +6,11 @@ cssclasses:
 ---
 Played by [[Abyss]]
 
-| Origin  |                  |
-| ------- | ---------------- |
-| Species | [[orc]]          |
-| Age     | 15 (young adult) |
-| Family  |                  |
+| Origin  |                     |
+| ------- | ------------------- |
+| Species | [[orc]]             |
+| Age     | 15-16 (young adult) |
+| Family  |                     |
 
 Quiet. Extremely protective and helpful. Healer. 
 

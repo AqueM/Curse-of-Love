@@ -6,11 +6,11 @@ tags:
   - Character/PC
 ---
 
-| Origin  | [[Baldur's Gate]] |
-| ------- | ----------------- |
-| Species | [[tiefling]]      |
-| Age     | 17                |
-| Family  | [[Delight]]       |
+| Origin  | [[Baldur's Gate]]          |
+| ------- | -------------------------- |
+| Species | [[tiefling]]               |
+| Age     | 17 (late teen/young adult) |
+| Family  | [[Delight]]                |
 
 # Looks
 Barbie is a relatively short, pink [[tiefling]], though most of her usual tiefling traits have an unusual twist to them. The pair of horns that protrudes from her hairline and curves towards the back of her head are a little darker at the end and not as chitinous and rough-looking as for most tieflings. Her tail is ended with a tuft of fur like a lion's or a unicorn's, and the tiny protruding fangs that often peek from between her plump lips look a bit like little hearts. Even her ears, long and pointy similarly to an elf's, differ by lacking usual the inner structure of a humanoid's earlobe.

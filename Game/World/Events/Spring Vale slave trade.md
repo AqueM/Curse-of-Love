@@ -2,7 +2,9 @@
 tags:
   - Event/Problem
 ---
-[[The Accountant]] is organizing people trafficking out of [[Spring Vale]] for unknown reasons. It is perhaps also fueling the convoys bringing people into the barrier in the center of [[Trollbark Forest]], related to [[Trollbark undeath problem]]. 
+According to [[Servius]] reading [[Misery|Barbie]]'s coded note, [[The Accountant]], residing in [[Spring Vale]], is organizing people trafficking for slave trade.
+
+This operation is perhaps also fueling the convoys bringing people into the barrier in the center of [[Trollbark Forest]], related to [[Trollbark undeath problem]]. 
 
 # Known victims
 - [[Delight]]

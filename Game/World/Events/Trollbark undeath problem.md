@@ -4,7 +4,7 @@ aliases:
 tags:
   - Event/Problem
 ---
-# TLDR
+# TL;DR
 Dead things just don't stay dead in [[Trollbark Forest]]. There is a magical barrier in the middle of the forest that kills and turns undead (?) everything that it touches. Some people can come and go into it.
 Kidnapped (?) children are brought into the barrier via wagon.
 
