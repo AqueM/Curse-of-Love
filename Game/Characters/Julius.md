@@ -2,7 +2,7 @@
 aliases:
 tags:
   - Character/NPC
-  - Wealth
+  - Wealthy
 ---
 
 | Species                 | [[elf]]     |

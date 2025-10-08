@@ -1,3 +1,7 @@
+---
+tags:
+  - meta
+---
 # Campaign dating
 Campaign started in 1CY (Campaign Year) for relative time-keeping. It's undecided how CY relates to DR, but there are some established relationships.
 - 1CY is at least 17 years before Elturel returns from Avernus after Descent to Avernus event in 1492 DR or 1494 DR 

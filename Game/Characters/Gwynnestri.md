@@ -8,7 +8,7 @@ aliases:
 tags:
   - Character/PC
   - Amberseeker
-  - Wealth/Noble
+  - Wealthy/Noble
 ---
 Played by [[Lise]]
 
