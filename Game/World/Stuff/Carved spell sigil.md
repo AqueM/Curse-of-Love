@@ -9,4 +9,6 @@ Arcane sigil carved directly into the skin, containing a [[Enchantment]] Sleep s
 
 Probably used on all/most victims of [[Spring Vale slave trade]].
 
+Couldn't be undone by [[Oriana]].
+
 Caused a hunt from [[Wolf]].

@@ -11,11 +11,11 @@ tags:
 | Met at       | [[Trollbark Forest]]          |
 | Relationship | friendly but suspicious       |
 | Age          | 17ish (late teen/young adult) |
-| Family       | [[Julius]]                    |
+| Family       | [[Julius Deepwater]]                    |
 
 Polite. Good-hearted. Embarrassed by sexual topics. 
 Has and plays a flute.
-Known to people of Spring Vale as [[Julius]]' rowdy son who always causes trouble for his father.
+Known to people of Spring Vale as [[Julius Deepwater]]' rowdy son who always causes trouble for his father.
 Magical vine tattoo moves when he's trying to say something he's cursed not to be able to say. This includes his real name and details about [[Inhabitants of Rot Barrier]]/his father's operations.
 
 Said he already talked to the [[Trollbark wood elves]] about the problem and told them not to get involved.

@@ -11,7 +11,7 @@ tags:
 | Type                             |     |
 
 This operation is perhaps also fueling the [[Trafficking Convoys]]
-Our knowledge of it comes from [[Servius]] reading the [[Coded note]]
+Our knowledge of it comes from [[Servius]] reading the [[coded note]]
 
 # Goals
 - profit ?

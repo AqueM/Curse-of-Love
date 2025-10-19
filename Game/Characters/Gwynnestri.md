@@ -23,6 +23,7 @@ Very averse to her betrothal and thus avoids going back home. Dislikes boredom, 
 A self-proclaimed comedian, jester. Can't make a joke to save her life, blames it on lack of inspiration.
 
 Doesn't introduce herself with her surname.
+Hooked up with [[Oriana]].
 # Looks
 Blonde hair, dyed from purple to blue on the road. 
 Attempts not to look noble by wearing "practical clothing", but it's too high quality to really pass as commoner. She walks and acts like a noble, too. A bit shorter than Rowan. Purple eyes. 

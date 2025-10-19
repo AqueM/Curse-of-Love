@@ -13,7 +13,7 @@ Played by [[Maya]]
 | Family  |             |
 
 Extreme asshole. Intimidating and rude. Acts like he's hot shit but he's not that strong. Hunter of some kind? Seeks out peace and quiet.
-Triggered by being called "husband". Paladin of [[Shar]].
+Triggered by being called "husband". Paladin of [[Shar]] (only known by [[Rowan]]).
 
 Introduces himself as a bounty hunter. Says he has business in Spring Vale.
 
