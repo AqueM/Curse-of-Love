@@ -8,10 +8,10 @@ tags:
 | Full name    | ?                             |
 | ------------ | ----------------------------- |
 | Species      | [[half-elf]]                  |
-| Met at       | [[Trollbark Forest]]          |
+| Met at       | Trollbark Forest              |
 | Relationship | friendly but suspicious       |
 | Age          | 17ish (late teen/young adult) |
-| Family       | [[Julius Deepwater]]                    |
+| Family       | [[Julius Deepwater]]          |
 
 Polite. Good-hearted. Embarrassed by sexual topics. 
 Has and plays a flute.

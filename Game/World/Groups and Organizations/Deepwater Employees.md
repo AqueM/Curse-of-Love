@@ -19,8 +19,7 @@ Run [[Deepwater Orphanage]]
 - [[Julius Deepwater]] (head)
 - [[Tyrias Leery]]
 - [[Hells' Bells]]
-- bartender at a docks' pub
-- [[Soft]] apparently?? via the bartender
+- [[Tommy]]
 - perhaps [[Trafficking Convoys]]
 # Hallmarks, heraldry, uniforms
 

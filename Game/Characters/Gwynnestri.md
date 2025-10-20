@@ -8,16 +8,16 @@ aliases:
 tags:
   - Character/PC
   - Amberseeker
-  - Wealthy/Noble
+  - Noble
 ---
 Played by [[Lise]]
 
-| Origin     | [[Spring Vale]] |
-| ---------- | --------------- |
-| Species    | [[elf]]         |
-| Age        | young adult     |
-| Family     | [[Rowan]]       |
-| Birth name | Willow          |
+| Origin     | [[Amberseeker Estate]] |
+| ---------- | ---------------------- |
+| Species    | [[elf]]                |
+| Age        | young adult            |
+| Family     | [[Rowan]]              |
+| Birth name | Willow                 |
 
 Very averse to her betrothal and thus avoids going back home. Dislikes boredom, seeks out entertainment. Very new to magic. Rather easily spooked. 
 A self-proclaimed comedian, jester. Can't make a joke to save her life, blames it on lack of inspiration.
