@@ -13,6 +13,9 @@ Servius also said that he learned of this (and decided to stop it/help the victi
 
 # Known victims
 - 4 [[Spring Vale]] children (alive, magically asleep, ages ranging 6 to 12)
+	- Andy / "number four" in [[Deepwater Orphanage]], 6yo human boy
+	- 10yo (equivalent) half-elf girl, mean to Andy
+	- Gareth, 12yo (equivalent) half-orc boy
 
 # Known members
 - the one guy we killed [[2025-09-28]]
