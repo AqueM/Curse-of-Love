@@ -15,5 +15,5 @@ tags:
 Cares for "alone, forgotten, abused" things (people), because "nobody else will". Considers themselves to be _protective_.
 
 # Quests and Marks
-- Hunt the person who carved magical sigils into the 4 children victims of [[Trafficking Convoys]]. "Make it slow. Make it hurt."  "I want it done first."
+- Hunt the person who carved magical sigils into the 4 children victims of [[Child trafficking]]. "Make it slow. Make it hurt."  "I want it done first."
 - Keep an eye on [[Servius]]. "He smells wrong."

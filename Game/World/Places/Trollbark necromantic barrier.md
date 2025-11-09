@@ -13,6 +13,7 @@ Animals wandering through it is probably what causes all the undead animals in t
 
 We assume that there is something or someone inside: [[Inhabitants of Rot Barrier]]
 
+The cold feeling that sets in a person after touching it seems to get worse via [[Julius Deepwater]] ? 
 # Known victims
 - [[Orpheus]] (alive - undead?)
 - [[Rowan]] (alive - undead?)

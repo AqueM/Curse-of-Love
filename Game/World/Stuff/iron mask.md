@@ -2,4 +2,6 @@
 tags:
   - Item
 ---
-Worn by the [[Trafficking Convoys]] we met. One currently in possession of [[Misery|Barbie]]
+Mark of [[Deepwater Employees]] on official business.
+
+The one worn by the convoy of [[Child trafficking]] we killed is currently in possession of [[Misery|Barbie]]

@@ -1,2 +1,2 @@
 Given to a [[New Hope Orphanage]] child by [[Delirium]] to gift to the next pink [[tiefling]] she meets.
-Gifted to [[Misery|Barbie]].
+Gifted to [[Misery|Barbie]]. She recognizes it as something that used to belong to [[Delirium]].

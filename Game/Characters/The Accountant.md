@@ -9,4 +9,4 @@ tags:
 | Met at                  |     |
 | Relationship with party |     |
 
-Person who wrote the note about selling [[Misery]]'s [[Delight|brother]]. Operates in [[Spring Vale]]? [[Servius]] knows them or at least _of_ them. 
+Person who wrote the note about selling [[Misery]]'s [[Delirium|brother]]. Operates in [[Spring Vale]]? [[Servius]] knows them or at least _of_ them. 
