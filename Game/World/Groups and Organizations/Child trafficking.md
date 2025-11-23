@@ -15,7 +15,8 @@ Given the guy wore an [[iron mask]], it may be safe to assume that he was part o
 
 # Known victims
 - 4 [[Spring Vale]] children (alive, magically asleep, ages ranging 6 to 12)
-	- Andy / "number four" in [[Deepwater Orphanage]], 6yo human boy
+	- Andy / "number four" in [[Deepwater Orphanage]], 6yo human boy (awake)
 	- 10yo (equivalent) half-elf girl, mean to Andy
-	- Gareth, 12yo (equivalent) half-orc boy
+	- Gareth, 12yo (equivalent) half-orc boy (awake)
+	- 11yo human boy (awake)
 

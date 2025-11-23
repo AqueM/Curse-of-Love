@@ -15,3 +15,5 @@ Can be dispelled with Dispel Magic with a good enough roll (15+, 20 passes). Whe
 The carved sigil, once dispelled, can be healed. 
 
 Caused a hunt from [[Wolf]].
+
+According to one of the kids it was cast by a "long- white-haired person who was purple-looking".

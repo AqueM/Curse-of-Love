@@ -19,6 +19,7 @@ Known to people of Spring Vale as [[Julius Deepwater]]' rowdy son who always cau
 Magical vine tattoo moves when he's trying to say something he's cursed not to be able to say. This includes his real name and details about [[Inhabitants of Rot Barrier]]/his father's operations.
 
 Said he already talked to the [[Trollbark wood elves]] about the problem and told them not to get involved.
+Every thread of magic on him, including his [[vine tattoo]], is underlaid with [[Necromancy]].
 
 # Looks
 Young half-elf. Not fully grown young man. Tan skin, piercing yellow eyes. Huge scar bisecting his face and many intentionally-inflicted by someone (non-battle) scars all over his body. Vine tattoo on face and disappearing under clothes. Heavily armed and armored, with his equipment being well-used but also taken care of. 
