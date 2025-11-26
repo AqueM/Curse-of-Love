@@ -27,6 +27,7 @@ Clothing is rich and noble, but she is doing the bare minimum of noble wealth dr
 3. are there any accessories, trinkets, jewelry that the Character wears usually? Colors that stand out in their outfits?
 
 4. what are the Character's sleeping/trancing habits, usual position?
+   She is very basic about it, shared a room for a long time and lived in dorms, just seating down with her legs crossed or lying down, she is good at ignoring everything else around her
 
 5. what are their habits around food? preferred foods, habits around snacking, quirks around eating?
 
@@ -34,7 +35,7 @@ Clothing is rich and noble, but she is doing the bare minimum of noble wealth dr
 
 7. how do they treat their equipment? Is it well-taken off?
 
-8. does the Character have any unusual equipment or tools
+8. does the Character have any unusual equipment or tools?
 
 9. do they have any stims, quirks, any repeating eccentricities?
 

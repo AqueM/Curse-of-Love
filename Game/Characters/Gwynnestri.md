@@ -43,7 +43,8 @@ Attempts not to look noble by wearing "practical clothing", but it's too high qu
 7. how do they treat their equipment? Is it well-taken off?
 
 8. does the Character have any unusual equipment or tools?
-Nope, nothing unusual, except perhaps [[Squeex]]
+   Nope, nothing unusual, except perhaps [[Squeex]]
+
 9. do they have any stims, quirks, any repeating eccentricities?
 
 10. do they have any immediately visible scars or marks?

@@ -32,7 +32,8 @@ Quiet. Extremely protective and helpful. Healer.
 
 7. how do they treat their equipment? Is it well-taken off?
 
-8. does the Character have any unusual equipment or tools
+8. does the Character have any unusual equipment or tools?
+   He has a fluffy blanket with him always but like I haven't actually gotten that yet
 
 9. do they have any stims, quirks, any repeating eccentricities?
 
