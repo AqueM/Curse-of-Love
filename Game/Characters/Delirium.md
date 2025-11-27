@@ -19,4 +19,6 @@ Part of [[Deepwater Employees]]. An asshole, according to Servius. Julius likes 
 
 According to Hells' Bells, he only fucks pink tiefling girls, and that it's a horror show when he does. 
 
+When he met [[Misery]] again, he almost murdered her and refused to talk with her. He warned that he's going to kill her if he ever sees her again. 
+
 
