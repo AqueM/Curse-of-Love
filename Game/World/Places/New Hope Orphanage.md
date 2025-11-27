@@ -5,10 +5,12 @@ aliases:
 ---
 In [[Spring Vale]].
 Houses about 9 tiefling children, including one pink girl.
-Previously visited by a pink tiefling boy who asked the pink girl to gift a [[flame-shaped hairclip]] if she meets another pink tiefling. 
-Owned by [[V]] , employs 3 caretakers.
-Hired [[Misery]].
+
+Previously visited by a pink tiefling boy who asked the pink girl to gift a [[flame-shaped hairclip]] if she meets another pink tiefling. It turned out to be [[Delirium]].
+
+Owned by [[V]], employs 3 caretakers. [[Julius Deepwater]] visited recently, talking friendly with V. 
+Briefly hired [[Misery]]. She got paid 6 silver for one day's work, which is A LOT.
 
 # Employees
-- Zaraya
+- Zaraia
 - 
