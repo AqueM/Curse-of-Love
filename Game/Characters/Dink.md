@@ -11,5 +11,5 @@ aliases:
 | Relationship with party |     |
 
 
-A friend of [[Servius]].
+A friend of [[Hadrian Deepwater]].
 Green ?

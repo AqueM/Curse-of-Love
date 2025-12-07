@@ -21,4 +21,4 @@ So far, appears either as a winged wolf, or as a bird. In either form, their the
 
 # Quests and Marks
 - Hunt the person who carved magical sigils into the 4 children victims of [[Child trafficking]]. "Make it slow. Make it hurt."  "I want it done first."
-- Keep an eye on [[Servius]]. "He smells wrong."
+- Keep an eye on [[Hadrian Deepwater]]. "He smells wrong."

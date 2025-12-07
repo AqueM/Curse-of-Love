@@ -10,6 +10,6 @@ tags:
 | Relationship with party | friendly                                      |
 
 
-Knows [[Servius]] and helps him regularly.
+Knows [[Hadrian Deepwater]] and helps him regularly.
 Lives in the 'hippie district' of Spring Vale. 
 Alchemist and poisoner. 
