@@ -16,4 +16,4 @@ The carved sigil, once dispelled, can be healed.
 
 Caused a hunt from [[Wolf]].
 
-According to one of the kids it was cast by a "long- white-haired person who was purple-looking".
+According to one of the kids it was cast by a "long- white-haired person who was purple-looking", in a cellar, which turns out to be a Drow. It was a punishment (?) after the kid lost a duel in "school" where they were taught to fight since they weren't good enough at theft.
