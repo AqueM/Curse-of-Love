@@ -8,6 +8,8 @@ tags:
 | ----------------------- | --------------------------------------------- |
 | Met at                  | [[Luck's Draw]], [[Baldur's Gate]] for Misery |
 | Relationship with party | friendly                                      |
-Knows [[Servius]] and helps him regularly (?).
+
+
+Knows [[Servius]] and helps him regularly.
 Lives in the 'hippie district' of Spring Vale. 
 Alchemist and poisoner. 

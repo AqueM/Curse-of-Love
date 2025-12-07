@@ -8,6 +8,7 @@ tags:
 | ----------------------- | ----------------------- |
 | Met at                  | [[Deepwater Orphanage]] |
 | Relationship with party |                         |
-Associated with [[Julius Deepwater]]. [[Servius]] does not like him. 
+
+One of [[Deepwater Employees]]. [[Servius]] doesn't seem to like him. (sometimes?) The speaker at [[The Pit]].
 
 Flirty, creepy, with sort of shitty makeup. Lean and spindly. 
