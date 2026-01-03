@@ -21,4 +21,5 @@ According to Hells' Bells, he only fucks pink tiefling girls, and that it's a ho
 
 When he met [[Misery]] again, he almost murdered her and refused to talk with her. He warned that he's going to kill her if he ever sees her again. 
 
+Felled by Orpheus in the tunnels/sewers leading to Underdark, as he tried to retrieve fleeing Hadrian. 
 

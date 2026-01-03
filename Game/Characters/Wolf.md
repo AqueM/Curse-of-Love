@@ -20,5 +20,5 @@ Much more aggressive and angry when presenting as wolf.
 So far, appears either as a winged wolf, or as a bird. In either form, their theme is blood and darkness.
 
 # Quests and Marks
-- Hunt the person who carved magical sigils into the 4 children victims of [[Child trafficking]]. "Make it slow. Make it hurt."  "I want it done first."
+- Hunt the person who carved magical sigils into the 4 children victims of [[Child trafficking]]. "Make it slow. Make it hurt."  "I want it done first." -> [[Enchanter Drow]]
 - Keep an eye on [[Hadrian Deepwater]]. "He smells wrong."

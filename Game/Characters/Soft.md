@@ -25,15 +25,17 @@ Quiet. Extremely protective and helpful. Healer.
 3. are there any accessories, trinkets, jewelry that the Character wears usually? Colors that stand out in their outfits?
 
 4. what are the Character's sleeping/trancing habits, usual position?
+Tends to go to sleep on his back or the side, can be found totally conked out on his stomach sometimes. Doesn't turn around much when he sleeps so usually stays in the same position though.
 
 5. what are their habits around food? preferred foods, habits around snacking, quirks around eating?
 
 6. how does the Character laugh, if they laugh at all? What makes them laugh?
 
 7. how do they treat their equipment? Is it well-taken off?
+Takes care of all of it very carefully.
 
 8. does the Character have any unusual equipment or tools?
-   He has a fluffy blanket with him always but like I haven't actually gotten that yet
+He has a fluffy blanket with him always but like I haven't actually gotten that yet
 
 9. do they have any stims, quirks, any repeating eccentricities?
 

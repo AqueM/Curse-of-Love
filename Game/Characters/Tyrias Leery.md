@@ -18,3 +18,5 @@ Tall red tiefling. Has a cane and well-taken-care-off clothes. Holds himself lik
 Lady Amberseeker thinks he's a criminal. 
 
 His office at [[Deepwater Orphanage]] says he's an [[The Accountant|accountant]]. 
+
+His home is, according to [[Nana]], the [[House of Mirth]] to which the key is [[ornate skull]] that Rowan now has. 
