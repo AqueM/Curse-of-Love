@@ -8,7 +8,7 @@ tags:
 | ----------------------- | --------------------------------------------- |
 | Met at                  | [[Nana's Bubble]]                             |
 | Relationship with party | ?????? non-hostile                            |
-| Family                  | [[Hadrian Deepwater]], [[Solenn Deepwater]] |
+| Family                  | [[Hadrian Deepwater]], [[Dr. Solenn Deepwater]] |
 
 Hadrian's grandmother, living in a [[Nana's Bubble|bubble]] in the form of a magical meadow a few weeks away from Spring Vale.
 In this bubble, Julius can't enter nor track Hadrian.
