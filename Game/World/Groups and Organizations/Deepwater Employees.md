@@ -13,7 +13,7 @@ tags:
 
 # Known businesses
 - [[Deepwater Orphanage]]
-- [[Child trafficking]]
+- [[child trafficking]]
 - [[The Pit]]
 - [[Deepwater School]]
 

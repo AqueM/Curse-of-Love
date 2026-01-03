@@ -1,6 +1,6 @@
 ---
 tags:
-  - Item
+  - item
 ---
 In possession of [[Misery|Barbie]]. 
 Taken from [[Macwood]] study. Written in code. 

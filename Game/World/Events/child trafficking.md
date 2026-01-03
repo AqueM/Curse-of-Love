@@ -11,7 +11,7 @@ Presumably there are more people like this, as both [[Trollbark wood elves]] and
 
 Servius also said that he learned of this (and decided to stop it/help the victims) by reading an order left by his father. 
 
-Given the guy wore an [[iron mask]], it may be safe to assume that he was part of [[Deepwater Employees]]. 
+Given the guy wore an [[iron mask]], it may be safe to assume that he was part of [[Deepwater Employees]]
 
 # Known victims
 - 4 [[Spring Vale]] children (alive, magically asleep, ages ranging 6 to 12)

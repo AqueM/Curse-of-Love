@@ -8,7 +8,7 @@ tags:
 | Size                             |                         |
 | -------------------------------- | ----------------------- |
 | Allied?                          | NO                      |
-| Relationships with other groups? | [[Child trafficking]] |
+| Relationships with other groups? | [[child trafficking]] |
 | Type                             |                         |
 
 People who moved into the ruins within [[Trollbark necromantic barrier]] a few months before Uktar 1CY, according to [[Trollbark wood elves]]. Presumably the cause of the [[Trollbark Rot]] spreading since.

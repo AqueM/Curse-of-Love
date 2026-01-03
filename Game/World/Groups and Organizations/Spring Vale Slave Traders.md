@@ -10,9 +10,9 @@ tags:
 | Relationships with other groups? |     |
 | Type                             |     |
 
-This operation is perhaps also fueling the [[Child trafficking]]
+This operation is perhaps also fueling the [[child trafficking]]
 Our knowledge of it comes from [[Hadrian Deepwater]] reading the [[coded note]]
-
+Probably just a part of [[Deepwater Employees]]
 # Goals
 - profit ?
 # Known members

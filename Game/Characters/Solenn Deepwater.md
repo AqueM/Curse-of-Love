@@ -15,3 +15,5 @@ Died 16 years ago (CY -16) - probably giving birth to Hadrian.
 Since then, the [[Necromancy]] section of the magical library has been closed off, because it hinted at danger and they had no expert to investigate properly. Some of the resources in it had been stolen/disappeared, though.
 
 Her portrait still proudly hangs in Julius' office.
+
+(only Rowan and Hadrian really know her name)
