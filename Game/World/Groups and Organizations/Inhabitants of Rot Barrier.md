@@ -11,7 +11,7 @@ tags:
 | Relationships with other groups? | [[child trafficking]] |
 | Type                             |                         |
 
-People who moved into the ruins within [[Trollbark necromantic barrier]] a few months before Uktar 1CY, according to [[Trollbark wood elves]]. Presumably the cause of the [[Trollbark Rot]] spreading since.
+People who moved into the ruins within [[Trollbark necromantic barrier]] a few months before Uktar 1CY, according to [[Trollbark wood elves]]. Presumably the cause of the [[The Rot]] spreading since.
 Probably also involved or causing [[Spring Vale slave trade]]
 Have a way to pass the barrier unharmed. 
 # Goals

@@ -11,7 +11,7 @@ Probably used on all/most victims of [[Spring Vale slave trade]].
 
 Couldn't be undone by [[Oriana]].
 
-Can be dispelled with Dispel Magic with a good enough roll (15+, 20 passes). When done so, it has the same sickly green glow as healed undead things affected by [[Trollbark Rot]].
+Can be dispelled with Dispel Magic with a good enough roll (15+, 20 passes). When done so, it has the same sickly green glow as healed undead things affected by [[The Rot]].
 The carved sigil, once dispelled, can be healed. 
 
 Caused a hunt from [[Wolf]].
